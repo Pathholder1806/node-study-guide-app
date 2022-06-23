@@ -1,0 +1,17 @@
+h1 {
+    margin-bottom: 1rem;
+}
+
+.main-class-list {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.main-list-item {
+    padding: 1rem;
+    margin: 0.25rem;
+}
+
+.main-list-item a {
+    padding: 1rem;
+    font-size: 1.5rem;
+}

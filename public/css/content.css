@@ -1,0 +1,54 @@
+.container {
+    max-width: 1200px;
+    min-height: 100vh;
+    display: block;
+    text-align: start;
+}
+
+.content-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3rem 0;
+}
+
+.content-header .chapter-heading {
+    margin: 0;
+    font-size: 3.25rem;
+    color: #ee6c4d;
+}
+
+.chapter-heading {
+    max-width: 60%;
+    text-align: left;
+}
+
+.chapter-content {
+    color: #3d5a80;
+    font-size: 2rem;
+    margin-bottom: 2em;
+}
+
+.btn {
+    padding: 1rem;
+    color: white;
+    border-radius: 3rem;
+    margin-right: 1rem;
+    border: none;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.btn:hover {
+    opacity: 0.85;
+    cursor: pointer;
+}
+
+.fav-btn {
+    background-color: #53b26d;
+}
+
+.unfav-btn {
+    background-color: #e1ce1d;
+}

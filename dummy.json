@@ -1,0 +1,68 @@
+{
+  "Class-VI": {
+    "Mathematics": {
+      "Chapter 1": "This is chapter-1, Mathematics, Class-VI",
+      "Chapter 2": "This is chapter-2, Mathematics, Class-VI",
+      "Chapter 3": "This is chapter-3, Mathematics, Class-VI"
+    },
+    "English": {
+      "Chapter 1": "This is chapter-1, English, Class-VI",
+      "Chapter 2": "This is chapter-2, English, Class-VI",
+      "Chapter 3": "This is chapter-3, English, Class-VI"
+    },
+    "Hindi": {
+      "Chapter 1": "This is chapter-1, Hindi, Class-VI",
+      "Chapter 2": "This is chapter-2, Hindi, Class-VI",
+      "Chapter 3": "This is chapter-3, Hindi, Class-VI"
+    }
+  },
+  "Class-VII": {
+    "Mathematics": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "English": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "Hindi": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "Science": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    }
+  },
+  "Class-VIII": {
+    "Mathematics": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "English": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "Hindi": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "Science": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    },
+    "Social Science": {
+      "Chapter 1": "This is chapter-1",
+      "Chapter 2": "This is chapter-2",
+      "Chapter 3": "This is chapter-3"
+    }
+  }
+}
