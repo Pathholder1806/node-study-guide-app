@@ -112,7 +112,8 @@ const setBackPath = (map, parentMap) => {
 };
 
 const mapInit = () => {
-    const jsonData = getDataFromFile("./src/utils/dummy.json"); // gets data in json format
+    console.log();
+    const jsonData = getDataFromFile(`${__dirname}/dummy.json`); // gets data in json format
     const map = convertJsonToMap(jsonData); // jsonData -> Map
     // setBackPath(map, map);
     return map;
