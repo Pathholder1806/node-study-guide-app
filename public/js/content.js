@@ -5,7 +5,7 @@ window.addEventListener("load", (e) => {
     const subjectValue = JSON.parse(localStorage.getItem("subject"));
     const chapterValue = JSON.parse(localStorage.getItem("chapter"));
 
-    const link = `http://127.0.0.1:3000/study?class=${classValue}&subject=${subjectValue}&chapter=${chapterValue}`;
+    const link = `https://node-study-guide-app.herokuapp.com/study?class=${classValue}&subject=${subjectValue}&chapter=${chapterValue}`;
 
     const mainHeading = document.querySelector(".chapter-heading");
 
