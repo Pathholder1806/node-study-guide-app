@@ -3,7 +3,7 @@ window.addEventListener("load", (e) => {
 
     const classValue = JSON.parse(localStorage.getItem("class"));
 
-    const link = `http://127.0.0.1:3000/study?class=${classValue}`;
+    const link = `https://node-study-guide-app.herokuapp.com/study?class=${classValue}`;
 
     fetch(link)
         .then(async (respones) => {

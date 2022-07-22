@@ -1,8 +1,7 @@
 window.addEventListener("load", (e) => {
-    console.log("page is fully loaded");
     e.preventDefault();
 
-    const link = "http://127.0.0.1:3000/study";
+    const link = "https://node-study-guide-app.herokuapp.com/study";
 
     fetch(link)
         .then(async (respones) => {

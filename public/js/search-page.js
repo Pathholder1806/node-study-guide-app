@@ -28,7 +28,6 @@ window.addEventListener("load", (e) => {
 
         const listItem = document.createElement("li");
         listItem.classList.add("search-list-item");
-        // listItem.appendChild(document.createTextNode(value));
 
         const title = document.createElement("h1");
         title.classList.add("chapter-title");

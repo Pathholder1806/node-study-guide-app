@@ -4,7 +4,7 @@ window.addEventListener("load", (e) => {
     const classValue = JSON.parse(localStorage.getItem("class"));
     const subjectValue = JSON.parse(localStorage.getItem("subject"));
 
-    const link = `http://127.0.0.1:3000/study?class=${classValue}&subject=${subjectValue}`;
+    const link = `https://node-study-guide-app.herokuapp.com/study?class=${classValue}&subject=${subjectValue}`;
 
     fetch(link)
         .then(async (respones) => {

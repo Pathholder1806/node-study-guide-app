@@ -7,7 +7,7 @@ searchForm.addEventListener("submit", (e) => {
 
     const searchValue = formInput.value;
 
-    const link = `http://127.0.0.1:3000/search?chapter=${searchValue}`;
+    const link = `https://node-study-guide-app.herokuapp.com/search?chapter=${searchValue}`;
 
     fetch(link)
         .then(async (response) => {
